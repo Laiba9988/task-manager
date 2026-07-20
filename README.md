@@ -4,6 +4,8 @@ A full-stack Task Management application built with Express.js, JWT Authenticati
 
 ## 🔗 Live Demo
 Check out the live application here: [task-manager-sigma-ecru.vercel.app](https://task-manager-sigma-ecru.vercel.app)
+## 🔗  Demo Clip
+https://drive.google.com/drive/folders/1q_Yt5WvGjK8fydhW8o7dmLm5I2aY3sp1?usp=drive_link
 
 ## 💻 Source Code (`server.js`)
 
